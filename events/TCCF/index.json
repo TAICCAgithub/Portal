@@ -1,0 +1,34 @@
+{
+  "event_id": "TCCF",
+  "display_name": {
+    "en": "TCCF",
+    "zh": "TCCF"
+  },
+  "logo_url": "https://taiccagithub.github.io/portal/img/tccf.png",
+  "event_date": {
+    "start": "2020-08-08T00:00:00+08:00",
+    "end": "2020-08-08T00:00:00+08:00"
+  },
+  "publish": {
+    "start": "2020-01-24T08:00",
+    "end": "2021-12-28T08:00"
+  },
+  "features": [
+    {
+      "feature": "schedule",
+      "display_text": {
+        "en": "Schedule",
+        "zh": "議程"
+      },
+      "url": "https://taiccagithub.github.io/schedule/"
+    },
+    {
+      "feature": "announcement",
+      "display_text": {
+        "en": "Announcement",
+        "zh": "大會公告"
+      },
+      "url": "https://taiccagithub.github.io/announcement/"
+    }
+  ]
+}
