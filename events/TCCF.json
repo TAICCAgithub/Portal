@@ -15,6 +15,24 @@
   },
   "features": [
     {
+      "feature": "fastpass",
+      "display_text": {
+        "en": "Fast Pass",
+        "zh": "快速通關"
+      },
+      "visible_roles": [
+        "none"
+      ],
+      "url": "https://cct.taicca.tw"
+    },
+    {
+      "feature": "ticket",
+      "display_text": {
+        "en": "Ticket",
+        "zh": "我的票券"
+      }
+    },
+    {
       "feature": "schedule",
       "display_text": {
         "en": "Schedule",
