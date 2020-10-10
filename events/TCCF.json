@@ -35,13 +35,13 @@
       "url": "https://taicca.tw/"
     },
     {
-      "feature": "schedule",
+      "feature": "schedule1",
       "icon": "https://taiccagithub.github.io/img/baseline_supervised_user_circle_black_48dp.png",
       "display_text": {
         "en": "我的媒合會議",
         "zh": "我的媒合會議"
       },
-      "url": "https://taiccagithub.github.io/schedule/"
+      "url": "https://cct.taicca.tw/app/Meeting/{token}"
     },
     {
       "feature": "ticket",
