@@ -10,3 +10,4 @@ while IFS=$'\t' read -r timestamp file; do
 done < <(TZ=/usr/share/zoneinfo/UTC jq -r '[.event_date.start | sub("(?<before>.*):"; .before ) | strptime("%Y-%m-%dT%H:%M:%S%z") | todate | fromdate, input_filename] | @tsv' events/*.json | sort -nr) | jq -r -c -s . > dist/events/index.json
 
 cp -r web/* dist/
+cp -r web/.well-known dist/
