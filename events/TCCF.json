@@ -82,13 +82,13 @@
       "url": "https://taicca.tw/"
     },
     {
-      "feature": "announcement",
+      "feature": "webview",
       "icon": "https://taiccagithub.github.io/img/baseline_campaign_black_48dp.png",
       "display_text": {
         "en": "Announcement",
         "zh": "大會公告"
       },
-      "url": "https://taiccagithub.github.io"
+      "url": "https://tccf.taicca.tw/news_list.php"
     },
     {
       "feature": "webview",
