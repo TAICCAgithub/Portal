@@ -42,7 +42,9 @@
         "zh": "我的媒合會議"
       },
       "url": "https://cct.taicca.tw/app/Meeting/{token}",
-      "visible_roles": "CCT"
+      "visible_roles": [
+        "CCT"
+      ]
     },
     {
       "feature": "ticket",
