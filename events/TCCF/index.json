@@ -41,7 +41,8 @@
         "en": "我的媒合會議",
         "zh": "我的媒合會議"
       },
-      "url": "https://cct.taicca.tw/app/Meeting/{token}"
+      "url": "https://cct.taicca.tw/app/Meeting/{token}",
+      "role": "CCT"
     },
     {
       "feature": "ticket",
