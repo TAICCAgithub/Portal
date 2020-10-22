@@ -65,12 +65,12 @@
     },
     {
       "feature": "webview",
-      "icon": "https://tccf.taicca.tw/product.php",
+      "icon": "https://taiccagithub.github.io/img/baseline_dashboard_black_48dp.png",
       "display_text": {
         "en": "展會內容",
         "zh": "展會內容"
       },
-      "url": "https://taicca.tw/"
+      "url": "https://tccf.taicca.tw/product.php"
     },
     {
       "feature": "webview",
