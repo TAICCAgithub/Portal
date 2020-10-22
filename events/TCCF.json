@@ -32,7 +32,7 @@
         "en": "展會資訊",
         "zh": "展會資訊"
       },
-      "url": "https://taicca.tw/"
+      "url": "https://tccf.taicca.tw/index.php"
     },
     {
       "feature": "schedule1",
@@ -70,7 +70,7 @@
         "en": "展會內容",
         "zh": "展會內容"
       },
-      "url": "https://taicca.tw/"
+      "url": "https://tccf.taicca.tw/product.php"
     },
     {
       "feature": "webview",
@@ -79,7 +79,7 @@
         "en": "新聞中心",
         "zh": "新聞中心"
       },
-      "url": "https://taicca.tw/"
+      "url": "https://tccf.taicca.tw/news_list.php"
     },
     {
       "feature": "announcement",
@@ -97,7 +97,7 @@
         "en": "線上觀看",
         "zh": "線上觀看"
       },
-      "url": "https://taicca.tw/"
+      "url": "https://tccf.taicca.tw/youtube.php"
     },
     {
       "feature": "webview",
