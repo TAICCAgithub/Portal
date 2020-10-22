@@ -32,7 +32,7 @@
         "en": "展會資訊",
         "zh": "展會資訊"
       },
-      "url": "https://taicca.tw/"
+      "url": "https://tccf.taicca.tw/index.php"
     },
     {
       "feature": "schedule1",
@@ -65,7 +65,7 @@
     },
     {
       "feature": "webview",
-      "icon": "https://taiccagithub.github.io/img/baseline_dashboard_black_48dp.png",
+      "icon": "https://tccf.taicca.tw/product.php",
       "display_text": {
         "en": "展會內容",
         "zh": "展會內容"
@@ -79,16 +79,16 @@
         "en": "新聞中心",
         "zh": "新聞中心"
       },
-      "url": "https://taicca.tw/"
+      "url": "https://tccf.taicca.tw/news_list.php"
     },
     {
-      "feature": "webview",
+      "feature": "announcement",
       "icon": "https://taiccagithub.github.io/img/baseline_campaign_black_48dp.png",
       "display_text": {
         "en": "Announcement",
         "zh": "大會公告"
       },
-      "url": "https://tccf.taicca.tw/news_list.php"
+      "url": "https://taiccagithub.github.io"
     },
     {
       "feature": "webview",
@@ -97,7 +97,7 @@
         "en": "線上觀看",
         "zh": "線上觀看"
       },
-      "url": "https://taicca.tw/"
+      "url": "https://tccf.taicca.tw/youtube.php"
     },
     {
       "feature": "webview",
