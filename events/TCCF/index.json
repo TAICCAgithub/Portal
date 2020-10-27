@@ -29,37 +29,65 @@
       "feature": "webview",
       "icon": "https://taiccagithub.github.io/img/baseline_table_view_black_48dp.png",
       "display_text": {
-        "en": "展會資訊",
+        "en": "About TCCF",
         "zh": "展會資訊"
       },
       "url": "https://tccf.taicca.tw/index.php?mode=app"
     },
     {
+      "feature": "schedule",
+      "icon": "https://taiccagithub.github.io/img/baseline_list_alt_black_48dp.png",
+      "display_text": {
+        "en": "Forum",
+        "zh": "論壇議程"
+      },
+      "url": "https://taiccagithub.github.io/schedule/"
+    },
+    {
       "feature": "schedule1",
       "icon": "https://taiccagithub.github.io/img/baseline_supervised_user_circle_black_48dp.png",
       "display_text": {
-        "en": "我的行事曆",
+        "en": "Calender",
         "zh": "我的行事曆"
       },
       "url": "https://cct.taicca.tw/app/Meeting/{token}",
       "visible_roles": [
-        "CCT"
+        "CCT",
+        "CXT"
       ]
+    },
+    {
+      "feature": "announcement",
+      "icon": "https://taiccagithub.github.io/img/baseline_campaign_black_48dp.png",
+      "display_text": {
+        "en": "Announcement",
+        "zh": "大會快訊"
+      },
+      "url": "https://taiccagithub.github.io"
     },
     {
       "feature": "ticket",
       "icon": "https://taiccagithub.github.io/img/baseline_qr_code_2_black_48dp.png",
       "display_text": {
-        "en": "通關票券",
-        "zh": "通關票券"
+        "en": "QR Code",
+        "zh": "進場 QR Code"
       }
+    },
+    {
+      "feature": "webview",
+      "icon": "https://taiccagithub.github.io/img/baseline_dashboard_black_48dp.png",
+      "display_text": {
+        "en": "Schedule",
+        "zh": "活動時程"
+      },
+      "url": "https://tccf.taicca.tw/?mode=app"
     },
     {
       "feature": "schedule",
       "icon": "https://taiccagithub.github.io/img/baseline_list_alt_black_48dp.png",
       "display_text": {
-        "en": "論壇議程",
-        "zh": "論壇議程"
+        "en": "Event",
+        "zh": "商務活動"
       },
       "url": "https://taiccagithub.github.io/schedule/"
     },
@@ -67,7 +95,25 @@
       "feature": "webview",
       "icon": "https://taiccagithub.github.io/img/baseline_dashboard_black_48dp.png",
       "display_text": {
-        "en": "關於展覽",
+        "en": "Matchmaking Meeting",
+        "zh": "媒合會議"
+      },
+      "url": "https://cct.taicca.tw/meeting/?mode=app"
+    },
+    {
+      "feature": "webview",
+      "icon": "https://taiccagithub.github.io/img/baseline_dashboard_black_48dp.png",
+      "display_text": {
+        "en": "Register",
+        "zh": "我要報名"
+      },
+      "url": "https://cct.taicca.tw/?mode=app"
+    },
+    {
+      "feature": "webview",
+      "icon": "https://taiccagithub.github.io/img/baseline_dashboard_black_48dp.png",
+      "display_text": {
+        "en": "Exhibition",
         "zh": "關於展覽"
       },
       "url": "https://tccf.taicca.tw/about_exhibition.php?mode=app"
@@ -76,25 +122,16 @@
       "feature": "webview",
       "icon": "https://taiccagithub.github.io/img/baseline_dynamic_form_black_48dp.png",
       "display_text": {
-        "en": "展會動態",
+        "en": "News",
         "zh": "展會動態"
       },
       "url": "https://tccf.taicca.tw/news_list.php?mode=app"
     },
     {
-      "feature": "announcement",
-      "icon": "https://taiccagithub.github.io/img/baseline_campaign_black_48dp.png",
-      "display_text": {
-        "en": "大會快訊",
-        "zh": "大會快訊"
-      },
-      "url": "https://taiccagithub.github.io"
-    },
-    {
       "feature": "webview",
       "icon": "https://taiccagithub.github.io/img/baseline_play_circle_outline_black_48dp.png",
       "display_text": {
-        "en": "線上觀看",
+        "en": "Streams",
         "zh": "線上觀看"
       },
       "url": "https://tccf.taicca.tw/youtube.php?mode=app"
@@ -103,7 +140,7 @@
       "feature": "webview",
       "icon": "https://taiccagithub.github.io/img/baseline_room_black_48dp.png",
       "display_text": {
-        "en": "大會地圖",
+        "en": "Map",
         "zh": "大會地圖"
       },
       "url": "https://tccf.taicca.tw/map.php?mode=app"
