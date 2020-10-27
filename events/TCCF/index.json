@@ -38,8 +38,8 @@
       "feature": "schedule1",
       "icon": "https://taiccagithub.github.io/img/baseline_supervised_user_circle_black_48dp.png",
       "display_text": {
-        "en": "我的媒合會議",
-        "zh": "我的媒合會議"
+        "en": "我的行事曆",
+        "zh": "我的行事曆"
       },
       "url": "https://cct.taicca.tw/app/Meeting/{token}",
       "visible_roles": [
@@ -67,17 +67,17 @@
       "feature": "webview",
       "icon": "https://taiccagithub.github.io/img/baseline_dashboard_black_48dp.png",
       "display_text": {
-        "en": "展會內容",
-        "zh": "展會內容"
+        "en": "關於展覽",
+        "zh": "關於展覽"
       },
-      "url": "https://tccf.taicca.tw/product.php"
+      "url": "https://tccf.taicca.tw/about_exhibition.php?lang=tw"
     },
     {
       "feature": "webview",
       "icon": "https://taiccagithub.github.io/img/baseline_dynamic_form_black_48dp.png",
       "display_text": {
-        "en": "新聞中心",
-        "zh": "新聞中心"
+        "en": "展會動態",
+        "zh": "展會動態"
       },
       "url": "https://tccf.taicca.tw/news_list.php"
     },
@@ -85,8 +85,8 @@
       "feature": "announcement",
       "icon": "https://taiccagithub.github.io/img/baseline_campaign_black_48dp.png",
       "display_text": {
-        "en": "Announcement",
-        "zh": "大會公告"
+        "en": "大會快訊",
+        "zh": "大會快訊"
       },
       "url": "https://taiccagithub.github.io"
     },
