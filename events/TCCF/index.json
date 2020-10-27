@@ -75,7 +75,7 @@
     },
     {
       "feature": "webview",
-      "icon": "https://taiccagithub.github.io/img/baseline_dashboard_black_48dp.png",
+      "icon": "https://taiccagithub.github.io/img/baseline_wysiwyg_black_48dp.png",
       "display_text": {
         "en": "Schedule",
         "zh": "活動時程"
@@ -84,7 +84,7 @@
     },
     {
       "feature": "schedule",
-      "icon": "https://taiccagithub.github.io/img/baseline_list_alt_black_48dp.png",
+      "icon": "https://taiccagithub.github.io/img/baseline_event_black_48dp.png",
       "display_text": {
         "en": "Event",
         "zh": "商務活動"
@@ -93,7 +93,7 @@
     },
     {
       "feature": "webview",
-      "icon": "https://taiccagithub.github.io/img/baseline_dashboard_black_48dp.png",
+      "icon": "https://taiccagithub.github.io/img/baseline_supervisor_account_black_48dp.png",
       "display_text": {
         "en": "Matchmaking Meeting",
         "zh": "媒合會議"
@@ -102,7 +102,7 @@
     },
     {
       "feature": "webview",
-      "icon": "https://taiccagithub.github.io/img/baseline_dashboard_black_48dp.png",
+      "icon": "https://taiccagithub.github.io/img/baseline_fact_check_black_48dp.png",
       "display_text": {
         "en": "Register",
         "zh": "我要報名"
