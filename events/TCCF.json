@@ -30,9 +30,26 @@
       "icon": "https://taiccagithub.github.io/img/baseline_table_view_black_48dp.png",
       "display_text": {
         "en": "About TCCF",
-        "zh": "展會資訊"
+        "zh": "大會介紹"
       },
       "url": "https://tccf.taicca.tw/index.php?mode=app"
+    },
+    {
+      "feature": "ticket",
+      "icon": "https://taiccagithub.github.io/img/baseline_qr_code_2_black_48dp.png",
+      "display_text": {
+        "en": "QR Code",
+        "zh": "進場 QR Code"
+      }
+    },
+    {
+      "feature": "webview",
+      "icon": "https://taiccagithub.github.io/img/baseline_wysiwyg_black_48dp.png",
+      "display_text": {
+        "en": "Schedule",
+        "zh": "大會日程"
+      },
+      "url": "https://tccf.taicca.tw/?mode=app"
     },
     {
       "feature": "schedule",
@@ -40,6 +57,15 @@
       "display_text": {
         "en": "Forum",
         "zh": "論壇議程"
+      },
+      "url": "https://taiccagithub.github.io/schedule/"
+    },
+    {
+      "feature": "schedule",
+      "icon": "https://taiccagithub.github.io/img/baseline_event_black_48dp.png",
+      "display_text": {
+        "en": "Event",
+        "zh": "商務活動"
       },
       "url": "https://taiccagithub.github.io/schedule/"
     },
@@ -57,6 +83,15 @@
       ]
     },
     {
+      "feature": "webview",
+      "icon": "https://taiccagithub.github.io/img/baseline_dynamic_form_black_48dp.png",
+      "display_text": {
+        "en": "News",
+        "zh": "大會新聞"
+      },
+      "url": "https://tccf.taicca.tw/news_list.php?mode=app"
+    },
+    {
       "feature": "announcement",
       "icon": "https://taiccagithub.github.io/img/baseline_campaign_black_48dp.png",
       "display_text": {
@@ -64,32 +99,6 @@
         "zh": "大會快訊"
       },
       "url": "https://taiccagithub.github.io"
-    },
-    {
-      "feature": "ticket",
-      "icon": "https://taiccagithub.github.io/img/baseline_qr_code_2_black_48dp.png",
-      "display_text": {
-        "en": "QR Code",
-        "zh": "進場 QR Code"
-      }
-    },
-    {
-      "feature": "webview",
-      "icon": "https://taiccagithub.github.io/img/baseline_wysiwyg_black_48dp.png",
-      "display_text": {
-        "en": "Schedule",
-        "zh": "活動時程"
-      },
-      "url": "https://tccf.taicca.tw/?mode=app"
-    },
-    {
-      "feature": "schedule",
-      "icon": "https://taiccagithub.github.io/img/baseline_event_black_48dp.png",
-      "display_text": {
-        "en": "Event",
-        "zh": "商務活動"
-      },
-      "url": "https://taiccagithub.github.io/schedule/"
     },
     {
       "feature": "webview",
@@ -117,15 +126,6 @@
         "zh": "關於展覽"
       },
       "url": "https://tccf.taicca.tw/about_exhibition.php?mode=app"
-    },
-    {
-      "feature": "webview",
-      "icon": "https://taiccagithub.github.io/img/baseline_dynamic_form_black_48dp.png",
-      "display_text": {
-        "en": "News",
-        "zh": "展會動態"
-      },
-      "url": "https://tccf.taicca.tw/news_list.php?mode=app"
     },
     {
       "feature": "webview",
