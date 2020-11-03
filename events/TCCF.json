@@ -61,13 +61,13 @@
       "url": "https://taiccagithub.github.io/schedule/"
     },
     {
-      "feature": "schedule",
+      "feature": "schedule2",
       "icon": "https://taiccagithub.github.io/img/baseline_event_black_48dp.png",
       "display_text": {
         "en": "Event",
         "zh": "商務活動"
       },
-      "url": "https://taiccagithub.github.io/schedule/"
+      "url": "https://taiccagithub.github.io/event/"
     },
     {
       "feature": "schedule1",
