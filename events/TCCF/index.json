@@ -49,7 +49,7 @@
         "en": "Schedule",
         "zh": "大會日程"
       },
-      "url": "https://tccf.taicca.tw/?mode=app"
+      "url": "https://tccf.taicca.tw/schedule.php?mode=app"
     },
     {
       "feature": "schedule",
